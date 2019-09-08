@@ -18,15 +18,27 @@ If you have a temperature and humidity sensor too, you can call instead "calcula
 ## **Exposed functions**
 
 MQ135(int Pin);
+
 void setRo(float Ro);
+
 float getRo();
+
 void setRl(float Rl);
+
 float getRl();
+
 float calculateRo(float PPM);
+
 float calculateRs();
+
 float calculatePPM();
+
 float calculateCorrectedRo(float PPM, float temp, float hum);
+
 float calculateCorrectedRs(float temp, float hum);
+
 float calculateCorrectedPPM(float temp, float hum);
+
+
 
 For a basic project check out the example provided
