@@ -1,0 +1,29 @@
+  
+#######################################
+# Syntax Coloring Map For MQ135
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+MQ135	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setRo	KEYWORD2
+getRo	KEYWORD2
+setRl	KEYWORD2
+getRl	KEYWORD2
+calculateRo	KEYWORD2
+calculateRs	KEYWORD2
+calculatePPM	KEYWORD2
+calculateCorrectedRo	KEYWORD2
+calculateCorrectedRs	KEYWORD2
+calculateCorrectedPPM	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
